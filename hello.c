@@ -1,6 +1,12 @@
+/* hello.c */
 #include <stdio.h>
 
-int main(){
-  printf ("Hi there\n");
+/***** main *******************************************************************
+ * Description: None
+ *
+ *****/
+int main()
+{
+  printf ("Hello World\n");
   return 0;
 }
